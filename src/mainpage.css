@@ -1,0 +1,60 @@
+.Mainpage{
+	
+
+}
+
+
+
+.Mainpage img {
+ background-attachment: fixed;
+ background-size: cover;
+ background-position: center;
+ height: 660px;
+ width: 100vw;
+}
+
+.aboutUs {
+	display: flex;
+	justify-content: space-around;
+	height: 580px;
+}
+.aboutUs div{
+	width: 50vw;
+
+}
+
+.aboutUs img {
+	height: 300px;
+	width: 50vw;
+
+}
+
+.aboutUs p{
+	font-style: italic;
+}
+
+.gallery{
+	position: relative;
+	height: 600px;
+
+}
+
+.gallery img{
+	height: 400px;
+	width: 60vw;
+}
+
+.gallery p{
+	font-style: italic;
+}
+
+.gallery a{
+ text-decoration: none;
+ color: black;
+ font-style: bold;
+}
+
+.gallery a:hover{
+	color: black;
+	font-weight: bold;
+}
